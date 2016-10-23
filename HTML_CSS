@@ -1,0 +1,189 @@
+<styles>
+body {
+  margin-top: 60px
+}
+</styles>
+
+<!-- CSS Above -->
+
+<html>
+  <body
+  
+<div class="container-fluid">
+      <div class="row">
+         <div class="col-sm-2">
+      </div>
+         <div class="col-sm-8">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+  <center>
+    <h1><b><font size="45">The Eden Project</font></b></h1>
+    <h2><i>The Project That Defines Sustainability</i></h2>
+    
+<!-- Picture Starts Here -->  
+
+      <div class="row">
+         <div class="col-sm-1">
+      </div>
+         <div class="col-sm-10">    
+    <div class="panel panel-default">
+    <div class="panel-content">
+      <figure>
+        <img src="http://www.edenproject.com/sites/default/files/ep-t1/HERO-Eden_by_Tamsyn_William_0.jpg" align="middle" width="70%" heigt="70%" style="margin: 10px 10px 0px 10px" class="img-responsive" alt="Eden Project Facility">
+       <div align="top"> <figcaption>A hilltop view of the Eden Project</figcaption>
+        </div>
+      </figure>
+    </div>
+    </div>
+             <div class="col-sm-1">
+      </div>
+      
+ <!-- Timeline Starts Here -->   
+    
+    <h3>Timeline of this massive project:</h3>  
+    
+<div class="container-fluid" align="left">    
+    <div class="row">
+         <div class="col-sm-2">
+      </div>
+         <div class="col-sm-8">
+    <ul>
+          <div class="panel panel-default">
+    <div class="panel-content">
+      <li><b>January 1995</b> - In 1995 this hole in the ground is a working china clay pit that is nearing the end of its economic life. And the Eden Project is just a twinkle in Tim Smit's eye. Having restored the Lost Gardens of Heligan, he's now looking for an epic setting to showcase the world's most important plants and realises he is going to need a very, very large space…</li>
+                  </div>
+      </div>
+          <div class="panel panel-default">
+    <div class="panel-content">
+      <li><b>October 1996</b> - The very first designs of the Eden Project Biomes are drawn on a napkin over a drink in a pub. Architect firm Grimshaw gets behind the project and takes its concept of Waterloo International as a starting point. Over time the design evolves into giant bubbles, because bubbles can settle on any shaped surface, even irregular clay pits.</li>
+                 </div>
+      </div> 
+          <div class="panel panel-default">
+    <div class="panel-content">
+      <li><b>October 1998</b> - It rains everyday during the first few months of construction, sending 43 million litres of water into the pit. We devise a special drainage system for the pit, which sits 15 metres below the water table. The 230 miles of scaffolding used to build the Biomes earn Eden an entry into the Guinness Book of Records. </li>
+            </div>
+      </div>
+      <div class="panel panel-default">
+    <div class="panel-content">
+      <li><b>September 2000</b> - The first of many trees are planted in a sparse-looking Rainforest Biome. Twice as high as the Tower of London, this space will eventually become home to over 1,000 different rainforest plant species. Many plants are grown from seed in our nursery; others come from botanic gardens, research stations and supporters. </li>
+            </div>
+      </div>
+      <div class="panel panel-default">
+    <div class="panel-content">
+      <li><b>March 2001</b> - The doors of the Eden Project open officially for the first time on 17 March 2001. The Biomes are shrouded in Cornish mist but, as dawn breaks, the air clears and thousands of visitors and staff look out onto what the Times calls the 'eighth wonder of the world'. By June, over a million people have visited. </li>
+            </div>
+      </div>
+      <div class="panel panel-default">
+    <div class="panel-content">
+      <li><b>August 2002</b> - Pulp stars at the first of Eden's famed one-day music festivals. Since the first show, the Eden Sessions have welcomed the likes of Oasis, Amy Winehouse, Paolo Nutini and Muse. </li>
+            </div>
+      </div>
+      <div class="panel panel-default">
+    <div class="panel-content">
+      <li><b>January 2004</b> - Eden kicks off an international programme helping schoolchildren create gardens where they can explore food, environment and citizenship. Within seven years, thousands of children across four continents had joined in. </li>
+            </div>
+      </div>
+      <div class="panel panel-default">
+    <div class="panel-content">
+      <li><b>September 2005</b> - Construction finishes on the Core, our sustainable education centre. The copper roof is sourced from a mine with one of the highest environmental and social standards in the world, through our partnership with mining industry giant Rio Tinto.  </li>
+            </div>
+      </div>
+      <div class="panel panel-default">
+    <div class="panel-content">
+      <li><b>June 2006</b> - The Queen visits Eden to open the Core. The sun shines, the flags wave and Her Majesty gives us a seal of approval: 'I am confident that the Eden Project will continue to encourage a better understanding of the planet on which we live, to offer a vision of hope for the future, and to inspire us all to work to make this world a better place for everyone.' </li>
+            </div>
+      </div>
+      <div class="panel panel-default">
+    <div class="panel-content">
+      <li><b>June 2007</b> - Hundreds of schoolchildren and musicians take part in celebrations as the 167-tonne Seed sculpture is lowered into the Core. Inspired by botanical forms, Peter Randall Page's masterpiece was meticulously carved out of a solid block of Cornish granite blasted from a nearby quarry on Bodmin Moor. </li>
+            </div>
+      </div>
+      <div class="panel panel-default">
+    <div class="panel-content">
+      <li><b>May 2009</b> - A garden created by hundreds of homeless people and prison inmates, part of a collaboration with Eden, wins silver at the Chelsea Flower Show. A second stunning display scoops another silver the following year. It's an example of the work we do to boost the skills and confidence of socially excluded people through activities like horticulture and football. </li>
+            </div>
+      </div>
+      <div class="panel panel-default">
+    <div class="panel-content">
+      <li><b>November 2010</b> - Like many others in the St Austell area, the Eden team wakes up to severe flooding following heavy rain. Up to one foot deep in some places, the water causes damage to buildings, plant displays and the ice rink - and it's all hands on deck to clean up. </li>
+            </div>
+      </div>
+      <div class="panel panel-default">
+    <div class="panel-content">
+      <li><b>August 2011</b> - A specially created show of aerial acrobatics, live music, dance and drama is commissioned to mark Eden's 10th anniversary celebrations. Over the summer, the award-winning performers, NoFit State Circus, performed the 'Labyrinth' show right across the Eden site. </li>
+            </div>
+      </div>
+      <div class="panel panel-default">
+    <div class="panel-content">
+      <li><b>May 2012</b> - Safely strapped to our helium balloon, TV personality Ben Fogle flies the Olympic Flame high above the canopy of our rainforest at the start of its 70-day journey across the UK in the lead-up to the London Games. </li>
+            </div>
+      </div>
+      <div class="panel panel-default">
+    <div class="panel-content">
+      <li><b>June 2013</b> - The first phase of the Rainforest Canopy Walkway in our Rainforest Biome opens with the aim of educate visitors about the importance of rainforests while offering breathtaking views across the Biome. </li>
+            </div>
+      </div>
+      <div class="panel panel-default">
+    <div class="panel-content">
+      <li><b>October 2014</b> - The YHA opens its Eden Project hostel in association with Snoozebox. Made from shipping containers, it accommodates up to 228 guests in 58 modern en-suite bedrooms. </li>
+            </div>
+      </div>
+      <div class="panel panel-default">
+    <div class="panel-content">
+      <li><b>September 2014</b> - Growing on the past success of our horticulture apprenticeships, we launched our biggest ever such programme in September 2014. Working with Cornwall College we opened the programme up to welcome apprentices into a range of teams including hospitality, media, creative design and horticulture.  </li>
+            </div>
+      </div>
+      <div class="panel panel-default">
+    <div class="panel-content">
+      <li><b>September 2015</b> - We launched these unique courses run by Cornwall College and accredited by Plymouth University to bring a hands-on, practical approach to learning in an inspiring and unforgettable environment. Courses include horticulture and plant science, garden and lanscape design and storytelling and interpretation.  </li>
+            </div>
+      </div>
+      <div class="panel panel-default">
+    <div class="panel-content">
+      <li><b>Future Plans</b> - We have planning permission to build a hotel on our outer estate, which is energy-efficient, accessible, and designed to blend into the countryside. The hotel will support our educational aspirations, our conference facilities, weddings, and the annual Eden Sessions concerts – as well as creating new jobs. </li>
+            </div>
+      </div>
+    </ul>
+               <div class="col-sm-2">
+      </div>
+    </div>
+    </div>
+    </div>
+    <div class="container-fluid" align="left">    
+    
+<!-- Reviews area -->
+    
+    <div class="row">
+               <div class="col-sm-3">
+      </div>
+         <div class="col-sm-6">
+   <div align="center"> <h3>Reviews</h3>
+     <div>
+      <blockquote>
+      <p>"It was great fun staying here with the quirkiness of staying in a converted shipping container.Excellent value for money. Staff are very friendly and helpful. Great place to stay when visiting the Eden Project as you feel you are making a contribution to helping the planet.</p>
+
+      <p>I think someone mentioned in another post that there was only one fridge available. Well there are.now 3 fridges so the staff obviously listen and act on feedback."</p>
+        <footer><i>From YHA.org.uk website</footer></i>
+        </blockquote>
+        
+<!-- Link to external source -->        
+        
+    <h2>For more amazing information on the "Eden Project" click <a href="http://www.edenproject.com/" target="_blank">Here</a></h2>
+      </div>
+           <div class="col-sm-3">
+      </div>
+  </center>
+               <div class="col-sm-2">
+      </div>
+  </div>
+</div>
+</div>
+
+<!-- Footer -->
+
+           <div class="container" align="center">
+           <footer>Written and Coded by <a href="https://www.freecodecamp.com/adakun" target="_blank">Adam Conley</a></footer>
+             </div>
+             
+ </body
+</html>
