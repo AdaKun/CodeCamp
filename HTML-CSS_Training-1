@@ -1,3 +1,6 @@
+<html>
+  <body
+  
 <styles>
 body {
   margin-top: 60px
@@ -5,9 +8,6 @@ body {
 </styles>
 
 <!-- CSS Above -->
-
-<html>
-  <body
   
 <div class="container-fluid">
       <div class="row">
